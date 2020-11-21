@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-21T12:54:19.176Z" agent="5.0 (X11)" etag="CuKp3NAW9s_liije1phZ" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-21T13:17:36.896Z" agent="5.0 (X11)" etag="UG2uFAGmwE-APSffHRUI" version="13.10.0" type="github">
   <diagram id="8StgFau6CERU6S8Ug89j" name="Page-1">
     <mxGraphModel dx="1022" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -101,7 +101,7 @@
           <mxGeometry x="50" y="524" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="SlvavN0k8m86maqTuqYq-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="520" width="150" height="100" as="geometry" />
+          <mxGeometry x="190" y="520" width="160" height="100" as="geometry" />
         </mxCell>
         <mxCell id="SlvavN0k8m86maqTuqYq-29" value="" style="endArrow=none;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="SlvavN0k8m86maqTuqYq-28" target="SlvavN0k8m86maqTuqYq-28">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -137,7 +137,7 @@
           <mxGeometry x="560" y="482" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="SlvavN0k8m86maqTuqYq-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="480" width="150" height="100" as="geometry" />
+          <mxGeometry x="680" y="480" width="160" height="100" as="geometry" />
         </mxCell>
         <mxCell id="SlvavN0k8m86maqTuqYq-38" value="" style="endArrow=none;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="SlvavN0k8m86maqTuqYq-37" target="SlvavN0k8m86maqTuqYq-37">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -172,9 +172,9 @@
             <mxPoint x="110" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SlvavN0k8m86maqTuqYq-45" value="" style="endArrow=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="SlvavN0k8m86maqTuqYq-28" target="SlvavN0k8m86maqTuqYq-16">
+        <mxCell id="SlvavN0k8m86maqTuqYq-45" value="" style="endArrow=none;html=1;entryX=0.547;entryY=1.01;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="SlvavN0k8m86maqTuqYq-16">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="240" y="470" as="sourcePoint" />
+            <mxPoint x="272" y="520" as="sourcePoint" />
             <mxPoint x="290" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -203,7 +203,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SlvavN0k8m86maqTuqYq-50" value="" style="endArrow=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.627;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="SlvavN0k8m86maqTuqYq-37" target="SlvavN0k8m86maqTuqYq-22">
+        <mxCell id="SlvavN0k8m86maqTuqYq-50" value="" style="endArrow=none;html=1;exitX=0.456;exitY=0.01;exitDx=0;exitDy=0;entryX=0.627;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="SlvavN0k8m86maqTuqYq-37" target="SlvavN0k8m86maqTuqYq-22">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="720" y="480" as="sourcePoint" />
             <mxPoint x="770" y="430" as="targetPoint" />
@@ -274,6 +274,33 @@
             <mxPoint x="415.0000000000002" y="155" as="sourcePoint" />
             <mxPoint x="415.0000000000002" y="165" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="SlvavN0k8m86maqTuqYq-63" value="&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ Moviename : Challang&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ Ratings : 3.2&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="444" y="360" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SlvavN0k8m86maqTuqYq-64" value="&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ Moviename : Lawyer&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ Ratings : 3.5&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="360" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SlvavN0k8m86maqTuqYq-65" value="&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ Moviename : Keasri&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ Ratings : 4.0&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="410" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SlvavN0k8m86maqTuqYq-66" value="&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ Venue Name : PVR&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ Timings : 6:30pm - 9 pm&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;+ Seats : 0&lt;br&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="365" y="513" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SlvavN0k8m86maqTuqYq-67" value="&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ Venue Name : INOX&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ Timings : 9:30pm - 12 pm&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;+ Seats : 0&lt;br&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="513" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SlvavN0k8m86maqTuqYq-68" value="&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ Venue Name : HIL cinemas&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ Timings : 6:30pm - 9 pm&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;+ Seats : 30&lt;br&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="553" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SlvavN0k8m86maqTuqYq-69" value="&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ Venue Name : Z Square&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ Timings : 9:30pm - 12 pm&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;+ Seats : 49&lt;br&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="553" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SlvavN0k8m86maqTuqYq-70" value="&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ Venue Name : INOX&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ Timings : 9:30pm - 12 pm&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+ Seats : 50&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="513" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SlvavN0k8m86maqTuqYq-71" value="&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ Moviename : Gatham&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;+ Ratings : 3.7&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="410" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
