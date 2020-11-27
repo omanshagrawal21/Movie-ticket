@@ -1,1 +1,92 @@
-<mxfile host="app.diagrams.net" modified="2020-11-19T10:55:53.274Z" agent="5.0 (X11)" version="13.9.9" etag="yd9JQWDvVeO6xbDLfgBl" type="github"><diagram id="W_tcMO_nmnKDEdCtC2U9">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-27T09:26:42.038Z" agent="5.0 (X11)" etag="FYyQTtbjHOpcSsDmL2ir" version="13.10.4" type="github">
+  <diagram id="W_tcMO_nmnKDEdCtC2U9" name="Page-1">
+    <mxGraphModel dx="1022" dy="664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VaGTal5pmxAMhw_VyIJr-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="100" width="460" height="620" as="geometry" />
+        </mxCell>
+        <mxCell id="VaGTal5pmxAMhw_VyIJr-2" value="customer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="330" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VaGTal5pmxAMhw_VyIJr-3" value="Select no.of seats" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="490" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VaGTal5pmxAMhw_VyIJr-4" value="&lt;div&gt;Make payment&lt;/div&gt;&lt;div&gt;Credit/Debit&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="540" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VaGTal5pmxAMhw_VyIJr-5" value="Select seat" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="390" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VaGTal5pmxAMhw_VyIJr-6" value="Select venue" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="270" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VaGTal5pmxAMhw_VyIJr-7" value="Select time" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="140" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VaGTal5pmxAMhw_VyIJr-8" value="Choose movie" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="130" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VaGTal5pmxAMhw_VyIJr-9" value="Login" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="310" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VaGTal5pmxAMhw_VyIJr-10" value="Confirm booking" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="610" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VaGTal5pmxAMhw_VyIJr-11" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="VaGTal5pmxAMhw_VyIJr-9" target="VaGTal5pmxAMhw_VyIJr-7">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="320" y="280" as="sourcePoint" />
+            <mxPoint x="480" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VaGTal5pmxAMhw_VyIJr-12" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.367;entryY=1.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VaGTal5pmxAMhw_VyIJr-9" target="VaGTal5pmxAMhw_VyIJr-8">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="230" y="240" as="sourcePoint" />
+            <mxPoint x="390" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VaGTal5pmxAMhw_VyIJr-13" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VaGTal5pmxAMhw_VyIJr-9" target="VaGTal5pmxAMhw_VyIJr-6">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="350" y="330" as="sourcePoint" />
+            <mxPoint x="510" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VaGTal5pmxAMhw_VyIJr-14" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;exitX=0.917;exitY=0.825;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="VaGTal5pmxAMhw_VyIJr-9" target="VaGTal5pmxAMhw_VyIJr-5">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="330" y="390" as="sourcePoint" />
+            <mxPoint x="490" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VaGTal5pmxAMhw_VyIJr-15" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;exitX=0.75;exitY=0.875;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="VaGTal5pmxAMhw_VyIJr-9" target="VaGTal5pmxAMhw_VyIJr-3">
+          <mxGeometry x="0.125" width="160" relative="1" as="geometry">
+            <mxPoint x="340" y="450" as="sourcePoint" />
+            <mxPoint x="500" y="450" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VaGTal5pmxAMhw_VyIJr-16" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;" edge="1" parent="1" source="VaGTal5pmxAMhw_VyIJr-4" target="VaGTal5pmxAMhw_VyIJr-10">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="360" y="600" as="sourcePoint" />
+            <mxPoint x="520" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VaGTal5pmxAMhw_VyIJr-17" value="" style="endArrow=none;html=1;entryX=0.167;entryY=0.625;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="VaGTal5pmxAMhw_VyIJr-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="360" as="sourcePoint" />
+            <mxPoint x="180" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VaGTal5pmxAMhw_VyIJr-18" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VaGTal5pmxAMhw_VyIJr-9" target="VaGTal5pmxAMhw_VyIJr-4">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="270.0022925469852" y="450.0013867598327" as="sourcePoint" />
+            <mxPoint x="359.3517340046687" y="482.0660070785991" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VaGTal5pmxAMhw_VyIJr-19" value="Use case diagram for BOOKING" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="50" width="220" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
