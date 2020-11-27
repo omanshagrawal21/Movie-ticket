@@ -1,1 +1,93 @@
-<mxfile host="app.diagrams.net" modified="2020-11-27T09:59:48.669Z" agent="5.0 (X11)" version="13.10.4" etag="PuINv_9mp7d3ZAaleQ7G" type="github"><diagram id="7gOKnt94zcy4go4IUqWZ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-27T10:15:28.609Z" agent="5.0 (X11)" etag="ob4d28wZ_oUeYPpM9u7f" version="13.10.4" type="github">
+  <diagram id="7gOKnt94zcy4go4IUqWZ" name="Page-1">
+    <mxGraphModel dx="1022" dy="1820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="u4pSi4DPBAl5HoN_h4dN-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u4pSi4DPBAl5HoN_h4dN-2" target="u4pSi4DPBAl5HoN_h4dN-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u4pSi4DPBAl5HoN_h4dN-2" value="Request cancellation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u4pSi4DPBAl5HoN_h4dN-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u4pSi4DPBAl5HoN_h4dN-4" target="u4pSi4DPBAl5HoN_h4dN-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u4pSi4DPBAl5HoN_h4dN-4" value="Cancellation success" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u4pSi4DPBAl5HoN_h4dN-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u4pSi4DPBAl5HoN_h4dN-6" target="u4pSi4DPBAl5HoN_h4dN-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u4pSi4DPBAl5HoN_h4dN-6" value="get refund" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u4pSi4DPBAl5HoN_h4dN-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u4pSi4DPBAl5HoN_h4dN-8" target="u4pSi4DPBAl5HoN_h4dN-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u4pSi4DPBAl5HoN_h4dN-8" value="Select tickets" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u4pSi4DPBAl5HoN_h4dN-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u4pSi4DPBAl5HoN_h4dN-10" target="u4pSi4DPBAl5HoN_h4dN-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u4pSi4DPBAl5HoN_h4dN-10" value="Manage bookings" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u4pSi4DPBAl5HoN_h4dN-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u4pSi4DPBAl5HoN_h4dN-12" target="u4pSi4DPBAl5HoN_h4dN-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u4pSi4DPBAl5HoN_h4dN-12" value="Customer login" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u4pSi4DPBAl5HoN_h4dN-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u4pSi4DPBAl5HoN_h4dN-14" target="u4pSi4DPBAl5HoN_h4dN-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u4pSi4DPBAl5HoN_h4dN-14" value="Go to homepage" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u4pSi4DPBAl5HoN_h4dN-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u4pSi4DPBAl5HoN_h4dN-16" target="u4pSi4DPBAl5HoN_h4dN-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u4pSi4DPBAl5HoN_h4dN-16" value="logout" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u4pSi4DPBAl5HoN_h4dN-17" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="410" y="-40" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u4pSi4DPBAl5HoN_h4dN-18" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;" edge="1" parent="1" source="u4pSi4DPBAl5HoN_h4dN-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u4pSi4DPBAl5HoN_h4dN-19" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="410" y="1010" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u4pSi4DPBAl5HoN_h4dN-20" value="Start" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="10" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="u4pSi4DPBAl5HoN_h4dN-21" value="Stop" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="980" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="u4pSi4DPBAl5HoN_h4dN-22" value="Use ID and password" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="120" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="u4pSi4DPBAl5HoN_h4dN-23" value="get bookings" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="250" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="u4pSi4DPBAl5HoN_h4dN-24" value="Get tickets" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="370" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="u4pSi4DPBAl5HoN_h4dN-25" value="Request movie ticket cancellation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="490" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="u4pSi4DPBAl5HoN_h4dN-26" value="Confirm cancellation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="600" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="u4pSi4DPBAl5HoN_h4dN-27" value="Get the amount refunded" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="730" width="150" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
