@@ -1,1 +1,111 @@
-<mxfile host="app.diagrams.net" modified="2020-11-27T09:57:11.832Z" agent="5.0 (X11)" version="13.10.4" etag="cLI1kkDUheyaSBnA_o_n" type="github"><diagram id="Rs2xvW2Ap1hyZxZx5kaX">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-27T09:58:54.081Z" agent="5.0 (X11)" etag="hINcvcHCMKpwJyz8KALU" version="13.10.4" type="github">
+  <diagram id="Rs2xvW2Ap1hyZxZx5kaX" name="Page-1">
+    <mxGraphModel dx="1022" dy="1820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hDN3Go335tOopPWttLhW-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hDN3Go335tOopPWttLhW-2" target="hDN3Go335tOopPWttLhW-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hDN3Go335tOopPWttLhW-2" value="Select venue" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="-590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hDN3Go335tOopPWttLhW-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hDN3Go335tOopPWttLhW-4" target="hDN3Go335tOopPWttLhW-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hDN3Go335tOopPWttLhW-4" value="Select timings" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="-480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hDN3Go335tOopPWttLhW-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hDN3Go335tOopPWttLhW-6" target="hDN3Go335tOopPWttLhW-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hDN3Go335tOopPWttLhW-6" value="Select seats" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="-360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hDN3Go335tOopPWttLhW-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hDN3Go335tOopPWttLhW-8" target="hDN3Go335tOopPWttLhW-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hDN3Go335tOopPWttLhW-8" value="Select movie" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="-710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hDN3Go335tOopPWttLhW-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hDN3Go335tOopPWttLhW-10" target="hDN3Go335tOopPWttLhW-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hDN3Go335tOopPWttLhW-10" value="Go to homepage" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="-840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hDN3Go335tOopPWttLhW-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hDN3Go335tOopPWttLhW-12" target="hDN3Go335tOopPWttLhW-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hDN3Go335tOopPWttLhW-12" value="Customer login" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="-950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hDN3Go335tOopPWttLhW-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hDN3Go335tOopPWttLhW-14" target="hDN3Go335tOopPWttLhW-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hDN3Go335tOopPWttLhW-14" value="Enter card details" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="-230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hDN3Go335tOopPWttLhW-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hDN3Go335tOopPWttLhW-16" target="hDN3Go335tOopPWttLhW-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hDN3Go335tOopPWttLhW-16" value="Confirm booking" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="-100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hDN3Go335tOopPWttLhW-17" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="375" y="-1040" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hDN3Go335tOopPWttLhW-18" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;" edge="1" parent="1" source="hDN3Go335tOopPWttLhW-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="-950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hDN3Go335tOopPWttLhW-19" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="375" y="240" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hDN3Go335tOopPWttLhW-20" value="Start" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="-990" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hDN3Go335tOopPWttLhW-21" value="Stop" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="210" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hDN3Go335tOopPWttLhW-22" value="Use ID and password" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="-880" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hDN3Go335tOopPWttLhW-23" value="View movie list" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="-750" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hDN3Go335tOopPWttLhW-24" value="View venue" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="-630" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hDN3Go335tOopPWttLhW-25" value="View timings" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="-510" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hDN3Go335tOopPWttLhW-26" value="View seats available" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="-400" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hDN3Go335tOopPWttLhW-27" value="Payment" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="-270" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hDN3Go335tOopPWttLhW-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hDN3Go335tOopPWttLhW-29" target="hDN3Go335tOopPWttLhW-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hDN3Go335tOopPWttLhW-29" value="Go to homepage" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hDN3Go335tOopPWttLhW-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hDN3Go335tOopPWttLhW-31" target="hDN3Go335tOopPWttLhW-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hDN3Go335tOopPWttLhW-31" value="logout" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hDN3Go335tOopPWttLhW-32" value="Get transaction ID" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="-150" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hDN3Go335tOopPWttLhW-33" value="Get tickets" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="-30" width="70" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
