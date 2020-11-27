@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-27T07:51:10.884Z" agent="5.0 (X11)" etag="EsmsZQMdA_cwxt2L0IJi" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-27T07:51:25.650Z" agent="5.0 (X11)" etag="7bpeHMRMpOyCmPluFr-U" version="13.10.4" type="github">
   <diagram id="gsTaq-lC7e8fo5LnqLd6" name="Page-1">
     <mxGraphModel dx="1022" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="9GFyErXqcewZroUCBzi0-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9GFyErXqcewZroUCBzi0-4" target="9GFyErXqcewZroUCBzi0-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9GFyErXqcewZroUCBzi0-4" value="Customer Login" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9GFyErXqcewZroUCBzi0-4" value="Admin Login" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="232.5" y="100" width="125" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9GFyErXqcewZroUCBzi0-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9GFyErXqcewZroUCBzi0-7" target="9GFyErXqcewZroUCBzi0-9">
